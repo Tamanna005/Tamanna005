@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tamanna Garva
 - 👀 I’m interested in Java and Java Script 
 - 🌱 I’m currently learning Python and Java Script 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a Java project 
 - 📫 How to reach me cansynagrest6@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a human
